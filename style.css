@@ -11,6 +11,8 @@ body{
 
     font-family: 'Roboto Slab', serif;
 
+    scroll:smooth;
+
 }
 #section-1{
     padding-left: 90px;
