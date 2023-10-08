@@ -3,6 +3,9 @@ margin:0;
 padding:0;
 box-sizing: border-box
 }
+html {
+  scroll-behavior: smooth;
+}
 body{
     background-color: #060606;
     color: white;
@@ -10,8 +13,6 @@ body{
     overflow-x: hidden;
 
     font-family: 'Roboto Slab', serif;
-
-    scroll:smooth;
 
 }
 #section-1{
